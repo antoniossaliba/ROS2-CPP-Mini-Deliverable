@@ -37,4 +37,5 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
   <li>
     A callback function is a function that can be passed as an argument to another function so that it can be executed whenever a certain condition is true (which is in our case the timer elapsing from 500ms to 0ms).
   </li>
+  <li>As per the documentation, the callback functions is where the message data is set and the messages are actually published.</li>
 </ul>
