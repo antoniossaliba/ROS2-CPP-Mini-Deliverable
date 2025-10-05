@@ -23,3 +23,9 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
 <hr>
 <h3>3. Initializer Lists</h3>
 <hr>
+<ul>
+  <li>
+    Initializer lists in C++ are made for defining data members of the class and in some cases to call the parent class constructor in case of inheritance. They are used as they accelerate the performance of the program as they are executed before the constructor's body.
+  </li>
+  <li><a href="">Show how to use an initializer list to: Call the superclass (base class) constructor (Node constructor) and initialize private member variables.</a></li>
+</ul>
