@@ -7,6 +7,7 @@
 #include "std_msgs/msg/string.hpp"
 
 using namespace std::chrono_literals;
+using namespace std;
 
 class MinimalPublisher : public rclcpp::Node
 {
@@ -40,6 +41,7 @@ private:
 
 int main(int argc, char *argv[])
 {
+    cout << "This is a test" << endl;
     rclcpp::init(argc, argv);
     rclcpp::spin(std::make_shared<MinimalPublisher>());
     rclcpp::shutdown();
