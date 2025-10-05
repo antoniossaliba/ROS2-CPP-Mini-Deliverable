@@ -39,3 +39,6 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
   </li>
   <li>As per the documentation, the callback functions is where the message data is set and the messages are actually published.</li>
 </ul>
+<hr>
+<h3>5. The std::bind Function and Lambdas</h3>
+<hr>
