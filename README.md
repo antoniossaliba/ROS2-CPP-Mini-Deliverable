@@ -70,4 +70,5 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
     <li>shared_ptr: Another type of pointers (used in our case) which can maintain multiple pointers to one object at a time, where we can reference the number of pointers using the <b>use_count()</b> function.</li>
     <li>weak_ptr: Similar to the case of shared_ptr case except that a weak_ptr has a non-owning reference to the object. This is used to avoid the circular dependency created by two or more object pointing to each other using shared_ptr.</li>
   </ul>
+  <li>In our case shared_ptr are used to initialize the publisher_ private data member of the MinimalPublisher class.</li>
 </ul>
