@@ -8,4 +8,5 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
 <hr>
 <ul>
   <li>The first 4 lines are called standard C++ headers that are used through the class definition.</li>
+  <li><b>#include "rclcpp/rclcpp.hpp"</b>: allows to use the most common pieces of the ROS 2 system (in this case it was used as the class inherits from the Node superclass)</li>
 </ul>
