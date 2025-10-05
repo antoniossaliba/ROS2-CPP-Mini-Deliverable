@@ -82,4 +82,9 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
   <ul>
     <li>name_of_namespace::name_of_desired_function_or_variable_or_class such as: std::cout (std is a namespace that contains everything related to data structures (like vectors, arrays, etc...) and also I/O operations).</li>
   </ul>
+  <li>The following namespaces appear in the ROS 2 tutorial:</li>
+  <ul>
+    <li>std::chrono_literals</li>
+    <li>std</li>
+  </ul>
 </ul>
