@@ -1,2 +1,2 @@
-# ROS2-CPP-Mini-Deliverable
-This repository was made for referencing/answering the ROS2 CPP Mini-Deliverable
+##Task Description: C++ and ROS2 Concepts
+<hr></hr>
