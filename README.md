@@ -33,3 +33,8 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
 <hr>
 <h3>4. Callback Functions</h3>
 <hr>
+<ul>
+  <li>
+    A callback function is a function that can be passed as an argument to another function so that it can be executed whenever a certain condition is true (which is in our case the timer elapsing from 500ms to 0ms).
+  </li>
+</ul>
