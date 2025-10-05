@@ -53,3 +53,6 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
   <li>The following code can be used in order to replace the <b>std::bind</b> function with a lambda function:</li>
   <ul><li><a href="https://github.com/antoniossaliba/ROS2-CPP-Mini-Deliverable/blob/main/lambda_function/MinimalPublisher.cpp">How can you replace std::bind with a lambda function in the publisher example?</a></li></ul>
 </ul>
+<hr>
+<h3>6. Smart Pointers</h3>
+<hr>
