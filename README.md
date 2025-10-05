@@ -58,6 +58,6 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
 <hr>
 <ul>
   <li>
-    A smart pointer is built over raw pointers that automatically manages memory, ensuring proper memory management and deallocations and preventing memory leaks. They are defined in the <memory> header.
+    A smart pointer is built over raw pointers that automatically manages memory, ensuring proper memory management and deallocations and preventing memory leaks. They are defined in the "<<memory>>" header.
   </li>
 </ul>
