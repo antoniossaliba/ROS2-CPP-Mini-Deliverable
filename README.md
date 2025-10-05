@@ -50,4 +50,6 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
   <li>
     According to <a href="https://www.w3schools.com/cpp/cpp_functions_lambda.asp">https://www.w3schools.com/cpp/cpp_functions_lambda.asp</a>, lambda functions is a small anonymous function that can be written directly in our own code. It's useful when we want to define a quick function without defining it separately.
   </li>
+  <li>The following code can be used in order to replace the <b>std::bind</b> function with a lambda function:</li>
+  <ul><li></li></ul>
 </ul>
