@@ -20,3 +20,4 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
   <li><a href="https://github.com/antoniossaliba/ROS2-CPP-Mini-Deliverable/tree/classes_and_inheritance/inheritance">Show how a class can extend (inherit from) another class</a></li>
   <li>In our case, we do have a class named <b>MinimalPublisher</b> that inherits publically (public inheritance, as we do have in C++ multiple types of inheritance such as: public, protected, and private inheritance) from the <b>Node</b> class situated in the std_msgs package as a way to send a message (msg extension) with the use of topics. Then we do have the class definition that involves the constructor definition, in addition to tthe private data members which includes the callback() function and some private data members as attributes.</li>
 </ul>
+<hr>
