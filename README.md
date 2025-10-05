@@ -9,6 +9,6 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
 <ul>
   <li>The first 4 lines are called standard C++ headers that are used through the class definition.</li>
   <li><b>#include "rclcpp/rclcpp.hpp"</b>: allows to use the most common pieces of the ROS 2 system (in this case it was used as the class inherits from the Node superclass)</li>
-  <li><b>#include "std_msgs/msg/string.hpp"</b>: includes built-in messages that will be used/displayed while publishing the data.</li>
-  <li><b>using namespace std::chrono_literals</b>:</li>
+  <li><b>#include "std_msgs/msg/string.hpp"</b>: includes built-in messages that will be used/displayed while publishing the data.</b>Example: auto message = std_msgs::msg::String();</li>
+  <li><b>using namespace std::chrono_literals</b>: </li>
 </ul>
