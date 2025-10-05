@@ -63,4 +63,11 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
   <li>
     They are part of the <b>memory header file</b>.
   </li>
+  <li>There are different types of smart pointers:</li>
+  <ul>
+    <li>auto_ptr</li>
+    <li>unique_ptr</li>
+    <li>shared_ptr</li>
+    <li>weak_ptr</li>
+  </ul>
 </ul>
