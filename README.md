@@ -12,4 +12,4 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
   <li><b>#include "std_msgs/msg/string.hpp"</b>: includes built-in messages that will be used/displayed while publishing the data.</br>Example: auto message = std_msgs::msg::String();</li>
   <li><b>using namespace std::chrono_literals</b>: This line of code (mainly namespace) help us to prevent of rewriting the name of the namespace whenever we want to access something inside the scope of this namespace.</br>Example: the 500ms used in the callback would have been <b>std::chrono::milliseconds(500)</b> if this line was not invoked.</li>
 </ul>
-</hr>
+</hr></hr>
