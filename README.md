@@ -15,3 +15,8 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
 <hr>
 <h3>2. Classes and Inheritance in C++</h3>
 <hr>
+<ul>
+  <li><a href="">Explain how to define a class in C++</a></li>
+  <li><a href="">Show how a class can extend (inherit from) another class</a></li>
+  <li>In our case, we do have a class named <b>MinimalPublisher</b> that inherits publically (public inheritance, as we do have in C++ multiple types of inheritance such as: public, protected, and private inheritance) from the <b>Node</b> class situated in the std_msgs package as a way to send a message (msg extension) with the use of topics.</li>
+</ul>
