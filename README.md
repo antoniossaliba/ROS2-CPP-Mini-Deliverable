@@ -6,3 +6,6 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
 <hr></hr>
 <h3>1. Includes and Usings</h3>
 <hr>
+<ul>
+  <li>#include <chrono>, #include <functional>, #include <memory>, #include <string> are named standard C++ headers that will be used through the class definition + implementation</li>
+</ul>
