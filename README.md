@@ -28,4 +28,5 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
     Initializer lists in C++ are made for defining data members of the class and in some cases to call the parent class constructor in case of inheritance. They are used as they accelerate the performance of the program as they are executed before the constructor's body.
   </li>
   <li><a href="https://github.com/antoniossaliba/ROS2-CPP-Mini-Deliverable/blob/classes_and_inheritance/inheritance/Account.cpp">Show how to use an initializer list to: Call the superclass (base class) constructor (Node constructor) and initialize private member variables.</a></li>
+  <li>As we can see in the tutorial code that the initializer list was used to call the parent class constructor (Node class) and also to define/initialize one of the data members that happened to be count_.</li>
 </ul>
