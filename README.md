@@ -75,3 +75,11 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
 <hr>
 <h3>7. Namespaces</h3>
 <hr>
+<ul>
+  <li>
+    namespaces help us define a block of predefined variables, functions, and classes accessible to that block of code. We can reference those variables, functions, and classes defined inside those namespaces using the following:
+  </li>
+  <ul>
+    <li>name_of_namespace::name_of_desired_function_or_variable_or_class such as: std::cout (std is a namespace that contains everything related to data structures (like vectors, arrays, etc...) and also I/O operations).</li>
+  </ul>
+</ul>
