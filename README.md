@@ -30,3 +30,6 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
   <li><a href="https://github.com/antoniossaliba/ROS2-CPP-Mini-Deliverable/blob/classes_and_inheritance/inheritance/Account.cpp">Show how to use an initializer list to: Call the superclass (base class) constructor (Node constructor) and initialize private member variables.</a></li>
   <li>As we can see in the tutorial code that the initializer list was used to call the parent class constructor (Node class) and also to define/initialize one of the data members that happened to be count_.</li>
 </ul>
+<hr>
+<h3>4. Callback Functions</h3>
+<hr>
