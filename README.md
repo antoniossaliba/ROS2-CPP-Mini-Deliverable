@@ -72,3 +72,6 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
   </ul>
   <li>In our case shared_ptr are used to initialize the publisher_ private data member of the MinimalPublisher class.</li>
 </ul>
+<hr>
+<h3>7. Namespaces</h3>
+<hr>
