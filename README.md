@@ -58,7 +58,7 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
 <hr>
 <ul>
   <li>
-    A smart pointer is built over raw pointers that automatically manages memory, ensuring proper memory management and deallocations and preventing memory leaks.
+    A smart pointer is built over raw pointers that automatically manages memory, ensuring proper memory management and deallocations and preventing memory leaks and dangling pointers.
   </li>
   <li>
     They are part of the <b>memory header file</b>.
@@ -68,6 +68,6 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
     <li>auto_ptr: It follows automatic storage allocation (If the object goes out of scope then the memory is deallocated dynamically / object is deleted dynamically). In addition there is transfer of ownership (i.e. no two pointers can point to the same object in memory at once)</li>
     <li>unique_ptr: Another type of pointers where we can only point to one object at a time (i.e. no two pointers can point to the same object at once). In addition, transfer of owenrship is done using the <b>move()</b> function</li>
     <li>shared_ptr: Another type of pointers (used in our case) which can maintain multiple pointers to one object at a time, where we can reference the number of pointers using the <b>use_count()</b> function.</li>
-    <li>weak_ptr:</li>
+    <li>weak_ptr: Similar to the case of shared_ptr case except that a weak_ptr has a non-owning reference to the object. This is used to avoid the circular dependency created by two or more object pointing to each other using shared_ptr.</li>
   </ul>
 </ul>
