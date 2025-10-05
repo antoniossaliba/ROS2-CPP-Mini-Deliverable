@@ -14,3 +14,4 @@ In this exercise, you will work with the C++ publisher and subscriber nodes from
 </ul>
 <hr>
 <h3>2. Classes and Inheritance in C++</h3>
+<hr>
