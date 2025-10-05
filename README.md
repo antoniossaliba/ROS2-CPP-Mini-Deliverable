@@ -48,6 +48,6 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
   </li>
   <li>However, the above statement as per multiple sources is not completely correct as also the std::bind function takes as parameter the function to be called and the object to call it on. In other words, it takes the object to call the function on and also the function to be called on that object. So, my assumption was 50% correct.</li>
   <li>
-    
+    According to <a href="https://www.w3schools.com/cpp/cpp_functions_lambda.asp">https://www.w3schools.com/cpp/cpp_functions_lambda.asp</a> lambda functions is a small anonymous function that can be written directly in our own code. It's useful when we want to define a quick function without defining it separately.
   </li>
 </ul>
