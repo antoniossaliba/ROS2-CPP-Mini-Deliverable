@@ -47,4 +47,7 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
     Before going deeper and searching for the real functionality of the std::bind function in C++, I was trying to understand from the code its functionality and I came up that it binds a specific function to be executed every 500ms.
   </li>
   <li>However, the above statement as per multiple sources is not completely correct as also the std::bind function takes as parameter the function to be called and the object to call it on. In other words, it takes the object to call the function on and also the function to be called on that object. So, my assumption was 50% correct.</li>
+  <li>
+    
+  </li>
 </ul>
