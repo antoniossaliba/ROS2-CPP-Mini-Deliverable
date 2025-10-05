@@ -88,3 +88,14 @@ In this exercise, will work with the C++ publisher and subscriber nodes from the
     <li>std</li>
   </ul>
 </ul>
+<hr>
+<h3>8. The Role of rclcpp::spin()</h3>
+<hr>
+<ul>
+  <li>
+    This function is used to process data from the node, including callbacks from the timer.
+  </li>
+  <li>
+    It repeatedly sends data from the talker (i.e. the publisher) to the listener (i.e. the subscriber). This is why we need in both the publisher and the subscriber, since at runtime we will see at the same time the publisher sending data that will be received by the listener simultaneously.
+  </li>
+</ul>
